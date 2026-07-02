@@ -13,6 +13,7 @@ I'm **Maria Musyoka**, a full-stack developer dedicated to creating elegant solu
 - **Full-Stack Solutions**: End-to-end application development
 - **Web Technologies**: Responsive design, modern frameworks, best practices
 - **Tools & Platforms**: Git, GitHub, VS Code, and more
+- **Technical Support Engineering**: Troubleshooting, system optimization, user support, and technical documentation
 
 ## 🎯 What I Do
 
@@ -76,7 +77,7 @@ personalprofile/
 ### How to View
 
 1. Open `index.html` in your web browser
-2. Explore my projects and work samples
+2. Explore my github profile
 3. Learn about my skills and experience
 4. Get in touch through the contact section
 
@@ -119,11 +120,3 @@ This portfolio and its contents are available under the MIT License. See the LIC
 Thank you for visiting my portfolio! I hope you find my work interesting and inspiring. If you have any questions or would like to discuss potential opportunities, please don't hesitate to reach out.
 
 ---
-
-**Version**: 1.0.0  
-**Last Updated**: July 3, 2026  
-**Status**: Active & Accepting Opportunities
-
----
-
-*"Building the future, one line of code at a time."*
