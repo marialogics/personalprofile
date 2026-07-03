@@ -1,4 +1,4 @@
-# Maria Musyoka - Full-Stack Developer Portfolio
+# Maria Musyoka Full-Stack Developer Portfolio
 
 Welcome to my personal portfolio website! I'm a passionate full-stack developer with expertise in building modern, scalable web applications using cutting-edge technologies.
 
